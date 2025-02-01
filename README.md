@@ -36,12 +36,12 @@ This is a BMI calculator that takes the input of height and weight of the user a
 ```sh
 python bmi_calculator.py
 
-* Input your height: 170 (in cm)
-* Input your weight: 70 (in kg)
-* Input your gender: Male
+> Input your height: 170 (in cm)
+> Input your weight: 70 (in kg)
+> Input your gender: Male
 
 Output
 
-* Your BMI is 24.2
-* You are in the normal weight range.
+> Your BMI is 24.2
+> You are in the normal weight range.
 ```
