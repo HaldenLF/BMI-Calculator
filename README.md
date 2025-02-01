@@ -15,34 +15,9 @@ This is a BMI calculator that takes the input of height and weight of the user a
     ```sh
     git clone https://github.com/HaldenLF/BMI-Calculator.git
     ```
-2. Navigate to the project directory:
-    ```sh
-    cd BMI-Calculator
-    ```
-3. Install the required dependencies:
-    ```sh
-    pip install -r requirements.txt
-    ```
+2. Open the project in Android Studio.
+3. Build and run the application on an Android device or emulator.
 
 ## Usage
-1. Run the main script to start the BMI calculator:
-    ```sh
-    python bmi_calculator.py
-    ```
-2. Follow the on-screen instructions to input your height, weight, and gender.
-3. The application will display your BMI and the corresponding weight class message.
-
-## Example
-```sh
-python bmi_calculator.py
-```
-```
-Input your height: 170 (in cm)
-Input your weight: 70 (in kg)
-Input your gender: Male
-```
-Output
-```
-Your BMI is 24.2
-You are in the normal weight range.
-```
+1. Follow the on-screen instructions to input your height, weight, and gender.
+2. The application will display your BMI and the corresponding weight class message.
